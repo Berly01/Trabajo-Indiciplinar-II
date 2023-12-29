@@ -55,8 +55,8 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                         <div class="col-md-4">
                             <div class="card border-0 text-center">
                                 <div class="card-icon">
-                                   	<i class="fa fa-question"></i>
-                                        <i class="fa fa-shopping-basket"></i>
+                                    <div class="card-icon-i">
+                                   		<i class="fa fa-question"></i>
                                     </div>
                                 </div>
                                 <div class="card-body">
@@ -75,9 +75,9 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                                 </div>
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Glaciares y recursos hídricos<br><br><br><br><br>
+                                        Riesgos para la biodiversidad<br><br><br><br><br><br>
                                     </h4>                          
-                                    <a href="https://youtu.be/kdZ0Hi4H8vA" target="_blank"><h5 class="card-body">Video</h5></a>                     
+                                    <a href="https://youtu.be/kdZ0Hi4H8vA" target="_blank"><h5 class="card-body">Chilean lake turns into desert amid 13-year drought</h5></a>                     
                                 </div>
                             </div>
                         </div>
@@ -90,18 +90,19 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                                 </div>
                                 <div class="card-body">
                                     <h4 class="card-title">
-                                        Glaciares y recursos hídrico
+                                        Aumento del nivel del mar
                                     </h4>
                                 </div>
                             </div>
                         </div>
                     </div>
+                
                 </div>
             </div>
         </div>
 
         <section id="why">
-            <h2 class="title">Chile</h2>
+            <h2 class="title">¿Cómo afecta el cambio climático a Chile?</h2>
             <div class="container">
                 <div class="row">
 
@@ -117,7 +118,7 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                                     Desertificación
                                 </h4>
                                 <p class="card-text">
-                                    En el norte de Chile, el cambio climático ha exacerbado la sequía y la desertificación. Esto ha afectado a comunidades que dependen de la agricultura y ha generado tensiones por el acceso al agua.
+                                    La diversidad biológica del país se ve amenazada por cambios en los ecosistemas, lo que afecta a especies endémicas y hábitats naturales.
                                 </p>
                             </div>
                         </div>
@@ -131,10 +132,10 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Glaciares y recursos hídricos
+                                    Riesgos para la biodiversidad
                                 </h4>
                                 <p class="card-text">
-                                    Los glaciares en la región de los Andes han estado retrocediendo debido al aumento de las temperaturas, lo que afecta la disponibilidad de agua dulce para el consumo humano, la agricultura y la generación de energía.
+                                    La deforestación en la Amazonía ha sido una preocupación constante. El cambio climático puede exacerbar este problema al aumentar la sequía, lo que a su vez lleva a incendios forestales más frecuentes y graves.
                                 </p>
                             </div>
                         </div>
@@ -148,10 +149,10 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                             </div>
                             <div class="card-body">
                                 <h4 class="card-title">
-                                    Incendios forestales
+                                    Aumento del nivel del mar
                                 </h4>
                                 <p class="card-text">
-                                    El cambio climático ha contribuido a temporadas de incendios forestales más intensas y prolongadas en regiones como la zona centro-sur. Estos incendios han afectado la biodiversidad, la calidad del aire y han causado daños a la infraestructura y las comunidades.
+                                    Las costas chilenas están experimentando un aumento del nivel del mar, lo que puede causar erosión costera, afectando a comunidades y la infraestructura cercana.
                                 </p>
                             </div>
                         </div>
@@ -182,4 +183,4 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
     <script type="text/javascript" src="assets/js/theme.js"></script>
 </body>
 </html>
-</html>
+     

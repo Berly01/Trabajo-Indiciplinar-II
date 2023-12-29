@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <title>Mapa</title>
     <meta charset="utf-8">
@@ -17,7 +17,6 @@
     <link rel="stylesheet" type="text/css" media="all" href="assets/css/theme.css">
     <link rel="stylesheet" type="text/css" media="all" href="assets/css/map.css">
 </head>
-
 
 <body>
     <div id="page-content" class="page-content">

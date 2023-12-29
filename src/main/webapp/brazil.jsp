@@ -95,12 +95,13 @@ double currentTemperature = TemperatureDataFetcher.getGlobalTemperature(country,
                             </div>
                         </div>
                     </div>
+                
                 </div>
             </div>
         </div>
 
         <section id="why">
-            <h2 class="title">Brazil</h2>
+            <h2 class="title">¿Cómo afecta el cambio climático a Brazil?</h2>
             <div class="container">
                 <div class="row">
 
